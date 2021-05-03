@@ -1,0 +1,22 @@
+{
+  "accounts" : {
+    "707e70271bcd47d68db053ebd0d6e1b2" : {
+      "accessToken" : "sez8znmurmxbocf9zb1hnvuhj4babgou",
+      "eligibleForMigration" : false,
+      "hasMultipleProfiles" : false,
+      "legacy" : false,
+      "localId" : "707e70271bcd47d68db053ebd0d6e1b2",
+      "minecraftProfile" : {
+        "id" : "313016143be54bd7bc0f6547cf514425",
+        "name" : "Antidotter"
+      },
+      "persistent" : true,
+      "remoteId" : "416e7469646f74746572",
+      "type" : "Mojang",
+      "userProperites" : [],
+      "username" : "Antidotter@mcleaks.net"
+    }
+  },
+  "activeAccountLocalId" : "707e70271bcd47d68db053ebd0d6e1b2",
+  "mojangClientToken" : "089c01fe06b6480fb9b588a77466d6a0"
+}
